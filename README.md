@@ -1,0 +1,3 @@
+# TimeSeries_Theory_of_decision_taking
+Виконнання домашнього завдання 
+Поки що in progress...
